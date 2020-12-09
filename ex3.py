@@ -1,3 +1,5 @@
+#Numbers & Math
+
 print("I will now count my chickens:")
 #this line first divides 30 by 6 which gives you 5 and then adds 5 to 25, giving you 30
 print("Hens", 25 + 30 / 6)

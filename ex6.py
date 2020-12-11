@@ -18,7 +18,7 @@ print(y)
 print(f"I said: {x}")
 # return value of y inside f-string
 print(f"I also said: '{y}'")
-# setting the property hilarious to be False
+# setting the property hilarious to be a boolean value of False
 hilarious = False
 # setting variable equal to a string with empty curly braces in order to be able to apply a format onto an already created string
 joke_evaluation = "Isn't that joke so funny?! {}"

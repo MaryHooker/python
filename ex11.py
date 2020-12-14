@@ -1,5 +1,6 @@
 # Asking Questions
 
+# you use end='' to tell print to not end the line with a newline character and go to the next line
 print("How old are you?", end='')
 age = input()
 print("How tall are you?", end='')

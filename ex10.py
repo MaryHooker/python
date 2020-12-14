@@ -22,6 +22,23 @@ print(fat_cat)
 #Additional Escape Sequences
 
 # carriage return (\r)
-carriage_return = "Heyyo\ru!"
-
+carriage_return = "Hey yo\ru!"
 print(carriage_return)
+
+# back space (\b)
+# outcome "Heyyou!"
+back_space = "Hey \byou!"
+print(back_space)
+
+# form feed (\f)
+# returns hey you on seperate lines
+form_feed = "Hey \fyou!"
+print(form_feed)
+
+# vertical tab
+vertical_tab = "Hey \vyou!"
+print(vertical_tab)
+
+# horizontal tab
+horizontal_tab = "Hey \vyou!"
+print(horizontal_tab)
